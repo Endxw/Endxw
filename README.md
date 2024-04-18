@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Endxw
+- 👀 I’m interested in Game/Software Development
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My 200m time is 25s (last time I measured, probably not as fast)
