@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game/Software Development
 - 🌱 I’m currently learning C# and Unity
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My 200m time is 20.23s (last time I measured, probably not as fast)
+- ⚡ Fun fact: My 200m time is 22.433s (last time I measured, probably not as fast)
